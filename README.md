@@ -1,4 +1,4 @@
-# CS255-Project2
+# CS255-Project1And2
 # Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
 The DriverPass project was about designing a system for the client, Liam, that would work as a site where people could learn about driving rules, laws, take in person driving lessons, and take up to date driving exams in order to prepare themselves for the real driving tests where they'd earn their licenses. The system need to allow users to create accounts, schedule in person driving lessons, purchase different content packages, and take tests online to practice the new things they're learning. This system would fill a niche in the market that Liam finds could be very profitable and help people at the same time.
 
